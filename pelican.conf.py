@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = u"Mark Betnel"
-SITENAME = u"Precalculus"
-SITEURL = 'http://markbetnel.com/precalc'
+SITENAME = u"College Algebra"
+SITEURL = 'http://markbetnel.com/algebra'
 
 TIMEZONE = 'America/New_York'
 

@@ -1,7 +1,7 @@
 Grading System
 ##############
 
-:date: 2012-07-23
+:date: 2012-10-30
 :category: overview
 :tags: standards, grading, overview
 
@@ -11,8 +11,7 @@ performance in these categories:
 * 10%	Final Exam
 * 10%	Homework_
 * 10%	Quizzes_	
-* 10% 	Project	
-* 10%	Participation
+* 20%	Participation
 * 50%	Standards_ 
 
 The final exam will be comprehensive.
@@ -23,10 +22,6 @@ accepted.
 
 Quizzes will be at the *start* of each class session, and, if missed, they
 cannot be made up.
-
-The project will be a mathematical project of your choosing, presented in a 4-6
-page paper that will be due near the end of the term.  Options for your project
-topic will be discussed in the third week of the course.
 
 Your participation grade will include your contributions to the class and to
 your groups during class time.  You will prepare a short assignment at the end
