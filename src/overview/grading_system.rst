@@ -11,8 +11,8 @@ performance in these categories:
 * 10%	Final Exam
 * 10%	Homework_
 * 10%	Quizzes_	
-* 20%	Participation
-* 50%	Standards_ 
+* 10%	Participation
+* 60%	Standards_ 
 
 The final exam will be comprehensive.
 
