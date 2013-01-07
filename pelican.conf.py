@@ -29,4 +29,5 @@ SOCIAL = (
 DEFAULT_PAGINATION = 7
 DISPLAY_PAGES_ON_MENU = False
 
-    
+TAG_SAVE_AS = 'tag/{slug}.html'
+TAG_URL = 'tag/{slug}.html'    
