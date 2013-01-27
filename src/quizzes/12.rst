@@ -4,7 +4,6 @@ Quiz 12
 :date: 2013-01-22
 :category: quizzes
 :tags:
-:status: draft
 
 Write equations representing each of the following (don't solve):
 

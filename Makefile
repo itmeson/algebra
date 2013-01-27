@@ -24,10 +24,14 @@ help:
 	@echo '   ssh_upload                       upload the web site using SSH     '
 	@echo '                                                                      '
 
-all: html ssh_upload ssh_upload
+all: html ssh_upload git
 
 html: clean $(OUTPUTDIR)/index.html
 	@echo 'Done'
+
+git:
+	git status
+	@echo 'COMMIT CHANGES TO THE REPO!!!!!'
 
 $(OUTPUTDIR)/%.html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) -t $(THEME)
