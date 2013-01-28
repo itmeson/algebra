@@ -1,0 +1,17 @@
+Quiz 15 
+#######
+
+:date: 2013-01-28
+:category: quizzes
+:tags:
+:status: draft
+
+
+1. Express the following as an expression involving only one exponent, for example:  $(2x)^2 $  becomes  $4x^2$ :
+
+   a. $ 
+  
+
+2.
+ 
+ 
