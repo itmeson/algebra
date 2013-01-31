@@ -4,12 +4,11 @@ Quiz 16
 :date: 2013-01-28
 :category: quizzes
 :tags: BI.1, AC.11
-:status: draft
 
 
 1. Simplify the following expressions:
 
-   a. $\\(frac{7}{9})^0$
+   a. $(\\frac{7}{9})^0$
    b. $y^{-2}y^{-5}$
    c. $(-xy^2)^{-4}$  
    d. $(y^3y^4)^4$
