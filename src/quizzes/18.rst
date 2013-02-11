@@ -4,7 +4,6 @@ Quiz 18
 :date: 2013-02-06
 :category: quizzes
 :tags: AC.12
-:status: draft
 
 Determine what values of x will make y equal to zero:
 
