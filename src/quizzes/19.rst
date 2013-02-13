@@ -3,8 +3,7 @@ Quiz 19
 
 :date: 2013-02-12
 :category: quizzes
-:tags: AC.12,AC.13,AC.16
-:status: draft
+:tags: AC.12,AC.13,AC.16,AC.17
 
 
 1. The following two equations describe the height of a missile above (or below) the surface of the ocean, when it is launched from a submarine: 
