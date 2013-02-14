@@ -1,0 +1,26 @@
+AC.1	14,15	algebra
+AC.2 	14	linear equations
+AC.6    15   	Graphing
+AC.7    16    	Systems
+AC.8    18    	Graphing systems
+AC.9    18    	Applications of systems
+AC.11	12,17,20Exponents
+AC.12	13,19	factoring
+AC.13	20	applications of factoring
+AC.16	13,19	quadratic  equations
+AC.17   19  	applications of quadratics
+BI.1    20	new problems
+BI.4 	11,16,20modelling
+
+
+
+11 BI.4, AC.7
+12 AC.11
+13 AC.12, AC.16 
+14 AC.1,  AC.2
+15 AC.1, AC.6
+16 BI.4, AC.7
+17 AC.11
+18 BI.4, AC.7, AC.8, AC.9
+19 AC.12
+20 AC.13, AC.17
