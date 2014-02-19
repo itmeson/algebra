@@ -1,5 +1,6 @@
 Course documents for Algebra, a college-level
-course that focuses on applications.
+course that focuses on applications, that I last taught at 
+Johnson and Wales University in 2013.
 
 The site is built using Pelican, a static site generator written in Python.
 

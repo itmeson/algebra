@@ -2,3 +2,4 @@ tests
 plan
 grades
 output
+*.pyc

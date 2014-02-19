@@ -3,7 +3,7 @@
 
 AUTHOR = u"Mark Betnel"
 SITENAME = u"College Algebra"
-SITEURL = 'http://markbetnel.com/algebra'
+SITEURL = 'http://markbetnel.com/dev/algebra'
 
 TIMEZONE = 'America/New_York'
 GOOGLE_ANALYTICS = "UA-20141547-1"
